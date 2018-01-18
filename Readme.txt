@@ -1,10 +1,10 @@
-//Ashika Avula 800972702
+//Ashika Avula 
 //aavula@uncc.edu
 
 I have compiled all java files in terminal. The following are the steps which i followed for execution.
 ------------------------------------------------------------------------------------------------------------------------------------
 
-First we have to create input and output paths in hdfs. I have already done that in asignment1 and i am using same for assignment2 
+First we have to create input and output paths in hdfs. 
 
 My input path is:
 /home/cloudera/wordcount/input
@@ -67,7 +67,7 @@ To get the output into our local directory
 7. hadoop fs -get /user/cloudera/wordcount/output/part-r-00000 /home/cloudera/
 part-r-00000 is the output file.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------		
+----------------------------------------------------------------------------------------------------------------------------------------		
 TFIDF.java execution as follows:
 
 First Compile the java file and build class path. Here i am calling TermFrequency in TFIDF, so i am building class path for both files.	 
@@ -90,7 +90,8 @@ To get the output into our local directory
 7. hadoop fs -get /user/cloudera/wordcount/output/part-r-00000 /home/cloudera/
 part-r-00000 is the output file.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Search.java execution as follows:
 
 First Compile the java file and build class path	 
