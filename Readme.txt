@@ -1,7 +1,7 @@
 //Ashika Avula 
 //aavula@uncc.edu
 
-I have compiled all java files in terminal. The following are the steps which i followed for execution.
+compile all java files in terminal. The following are the steps.
 ------------------------------------------------------------------------------------------------------------------------------------
 
 First we have to create input and output paths in hdfs. 
