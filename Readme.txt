@@ -1,6 +1,3 @@
-//Ashika Avula 
-//aavula@uncc.edu
-
 compile all java files in terminal. The following are the steps.
 ------------------------------------------------------------------------------------------------------------------------------------
 
